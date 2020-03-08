@@ -1,4 +1,5 @@
-def addition(sum)
+def addition(num1, num2)
+  if 
  puts sum = num1 + num2
 end
 
